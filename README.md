@@ -15,13 +15,7 @@ This project is a great way to practice:
 
 ---
 
-## 📸 Demo
 
-![Whack-a-Mole Screenshot](screenshot.png)
-
-> Add your own screenshot in the repo and rename it to `screenshot.png` or update the filename above.
-
----
 
 ## 🚀 How to Run the Project
 
