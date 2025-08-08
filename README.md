@@ -21,5 +21,5 @@ This project is a great way to practice:
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/your-username/whack-a-mole.git
+   git clone https://github.com/Prashanth-07-dev/whack-a-mole.git
    cd whack-a-mole
